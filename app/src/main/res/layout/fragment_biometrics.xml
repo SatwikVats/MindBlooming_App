@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".fragment.BiometricsFragment"
+    android:padding="10dp"
+    android:id="@+id/constraint_layout_biometrics"
+    >
+
+
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+
+
+
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/biometrics_content"
+        app:layout_constraintTop_toBottomOf="@+id/h_guideline_top_most"
+        app:layout_constraintBottom_toTopOf="@+id/h_guideline_top_content"
+
+        >
+    <EditText
+        android:id="@+id/et_weight"
+        android:layout_width="383dp"
+        android:layout_height="40dp"
+        android:hint="Enter your weight in kilograms."
+        android:padding="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="3dp"
+        android:inputType="number"
+        android:layout_centerHorizontal="true"
+        android:textAlignment="center"
+        android:textColorHint="#ffffff"
+
+        android:background="@drawable/height_weight_enter_menu"
+
+
+     />
+
+
+        <EditText
+            android:id="@+id/et_height"
+            android:layout_below="@+id/et_weight"
+            android:layout_width="383dp"
+            android:layout_height="40dp"
+            android:padding="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="3dp"
+            android:hint="Enter your height in centimetres."
+            android:inputType="number"
+            android:layout_centerHorizontal="true"
+            android:textAlignment="center"
+            android:textColorHint="#ffffff"
+            android:background="@drawable/height_weight_enter_menu"
+
+
+            />
+
+        <Button
+            android:id="@+id/btn_update_biometrics"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Enter"
+            android:layout_below="@+id/et_height"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/bg_buttons"
+            android:textColor="#ffffff"
+            android:textStyle="bold"
+            android:padding="5dp"
+            android:layout_marginTop="6dp"
+            android:layout_marginBottom="10dp"
+            android:textAllCaps="false"
+
+
+
+            />
+
+    </RelativeLayout>
+
+    <androidx.constraintlayout.widget.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.015"
+        android:id="@+id/h_guideline_top_most"
+
+
+        />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.27"
+        android:id="@+id/h_guideline_top_content"
+
+
+        />
+
+
+
+    <androidx.constraintlayout.widget.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.28"
+        android:id="@+id/h_guideline_top"
+
+
+        />
+
+
+
+    <androidx.constraintlayout.widget.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.535"
+        android:id="@+id/h_guideline_middle"
+
+
+        />
+
+
+
+
+
+    <androidx.constraintlayout.widget.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.79"
+        android:id="@+id/h_guideline_bottom"
+
+
+        />
+
+
+    <androidx.constraintlayout.widget.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.93"
+        android:id="@+id/h_guideline_wrapup"
+
+
+        />
+
+
+    <androidx.constraintlayout.widget.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.37"
+        android:id="@+id/v_guideline_middle_left"
+
+
+        />
+
+
+    <androidx.constraintlayout.widget.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.63"
+        android:id="@+id/v_guideline_middle_right"
+
+
+        />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.05"
+        android:id="@+id/v_guideline_middle_left_end"
+
+
+        />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.95"
+        android:id="@+id/v_guideline_middle_right_end"
+
+
+        />
+
+
+
+
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/weight_measuring_scale"
+            app:layout_constraintLeft_toRightOf="@+id/v_guideline_middle_left_end"
+            app:layout_constraintRight_toLeftOf="@+id/v_guideline_middle_left"
+            app:layout_constraintTop_toBottomOf="@+id/h_guideline_top"
+            app:layout_constraintBottom_toTopOf="@+id/h_guideline_middle"
+
+            >
+
+
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/weight_card"
+            android:layout_centerHorizontal="true"
+            app:cardCornerRadius="4dp"
+            app:cardBackgroundColor="#B71C1C">
+
+
+            <TextView
+                android:id="@+id/weight"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Weight"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:paddingTop="5dp"
+                android:textColor="#ffffff"
+
+
+
+
+                />
+
+        </androidx.cardview.widget.CardView>
+
+            <ImageView
+
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:padding="7dp"
+                android:src="@drawable/weighingscalef"
+                android:layout_below="@+id/weight_card"
+
+
+
+
+
+
+                />
+
+        </RelativeLayout>
+
+
+
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/height_measuring_tape"
+            app:layout_constraintLeft_toRightOf="@+id/v_guideline_middle_right"
+            app:layout_constraintRight_toLeftOf="@+id/v_guideline_middle_right_end"
+            app:layout_constraintTop_toBottomOf="@+id/h_guideline_top"
+            app:layout_constraintBottom_toTopOf="@+id/h_guideline_middle"
+
+
+
+
+
+
+            >
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/height_card"
+                android:layout_centerHorizontal="true"
+                app:cardCornerRadius="4dp"
+                app:cardBackgroundColor="#FF6F00">
+
+
+
+            <TextView
+                android:id="@+id/height"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Height"
+                android:layout_centerHorizontal="true"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:paddingTop="5dp"
+                android:textColor="#ffffff"
+
+
+
+
+
+                />
+
+            </androidx.cardview.widget.CardView>
+
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/measuringtape"
+                android:padding="7dp"
+                android:layout_below="@+id/height_card"
+
+
+
+
+                />
+
+
+
+
+
+
+
+
+
+
+
+        </RelativeLayout>
+
+
+
+
+       <!-- <Button
+            android:id="@+id/btn_et_height"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Enter"
+            android:layout_toRightOf="@+id/et_height"
+            android:layout_below="@+id/btn_et_weight"
+
+
+            />-->
+
+
+
+
+
+<RelativeLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/bmi_data"
+
+
+    app:layout_constraintLeft_toRightOf="@+id/v_guideline_middle_left_end"
+    app:layout_constraintRight_toLeftOf="@+id/v_guideline_middle_right_end"
+    app:layout_constraintTop_toBottomOf="@+id/h_guideline_middle"
+    app:layout_constraintBottom_toTopOf="@+id/h_guideline_bottom">
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bmi_card"
+        android:layout_centerHorizontal="true"
+        app:cardCornerRadius="6dp"
+        app:cardBackgroundColor="#1B5E20">
+
+        <TextView
+            android:id="@+id/bmi_display"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:maxLines="1"
+            android:text="BMI"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="3dp"
+            android:layout_centerHorizontal="true"
+            android:textColor="#ffffff"
+
+
+
+
+
+            />
+
+    </androidx.cardview.widget.CardView>
+
+        <ImageView
+            android:id="@+id/bmi_data_icon"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:src="@drawable/bmif"
+            android:padding="7dp"
+            android:layout_below="@+id/bmi_card"
+            android:layout_centerHorizontal="true"
+
+
+
+
+            />
+
+</RelativeLayout>
+
+    <androidx.constraintlayout.widget.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.15"
+        android:id="@+id/g_v_bmi_analysis_card_1"/>
+
+    <androidx.constraintlayout.widget.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.85"
+        android:id="@+id/g_v_bmi_analysis_card_2"/>
+
+
+
+<com.google.android.material.card.MaterialCardView
+    android:padding="2dp"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    app:layout_constraintBottom_toBottomOf="@+id/constraint_layout_biometrics"
+    android:id="@+id/bmi_analysis_card"
+    android:orientation="horizontal"
+    app:cardBackgroundColor="#00E676"
+    app:cardCornerRadius="5dp"
+    app:strokeColor="#008000"
+    app:strokeWidth="2dp"
+    app:layout_constraintLeft_toRightOf="@+id/g_v_bmi_analysis_card_1"
+    app:layout_constraintRight_toLeftOf="@+id/g_v_bmi_analysis_card_2"
+    app:layout_constraintBottom_toTopOf="@+id/h_guideline_wrapup"
+
+
+    >
+
+
+
+            <RelativeLayout
+                android:id="@+id/bmi_analysis_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp">
+
+
+            <ImageView
+                android:id="@+id/bmi_analysis_logo"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:src="@drawable/bmianalysislogodef"
+
+
+
+                />
+
+
+            <TextView
+                android:id="@+id/bmi_analysis"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Body Mass Index analysis"
+                android:layout_toRightOf="@+id/bmi_analysis_logo"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="4dp"
+                android:textStyle="bold"
+                android:textColor="#ffffff"
+                android:textSize="12sp"
+                android:maxLines="3"
+
+                />
+
+            </RelativeLayout>
+
+</com.google.android.material.card.MaterialCardView>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

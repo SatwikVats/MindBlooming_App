@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Mindblooming</string>
+    <string name="home">Home</string>
+    <string name="Your_profile">Profile</string>
+    <string name="biometrics">Biometrics</string>
+    <string name="calorie_content">Calorie content</string>
+    <string name="analyzer">Fitness goals</string>
+    <string name="about_app">About app</string>
+    <string name="CCremark">
+        Note - This is based on data collected from various reliable sources and none of these represent exact figures . Calorie and fat count are a rough estimate ,based on average computed from the data collected .
+        Data sources-fitbits.com , Myfitnesspal.com , nutritioncharts.com , nutritionvalue.org
+    </string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="about_app_description">This is an app designed for all the fitness freaks out there. From to-do-workout list
+        to BMI(Body Mass Index) calculator, it contains all the relevant features for setting up a daily exercise routine. Additionally,
+        it contains informative content, pertaining to various fast-food items we often consume along with some videos giving some quick
+        insights to adopting a healthy lifestyle. This app inculcates features which could help fulfill your fitness goals within a
+        short period of time. You can keep a track of your health by updating biometrics and thereby analysing your Body Mass Index.
+        Hope you have a great time with Mindblooming.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="player_error">Error initializing YouTube player: %s</string>
+    <string name="seek_to">Jump To</string>
+    <string name="seek_to_hint">Seconds</string>
+</resources>

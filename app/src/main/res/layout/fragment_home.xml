@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".fragment.HomeFragment"
+    >
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/homepage_title"
+        app:cardCornerRadius="10dp"
+        android:layout_centerHorizontal="true"
+        app:cardBackgroundColor="#E65100"
+        app:strokeWidth="0dp"
+        app:strokeColor="#800000"
+        android:layout_margin="10dp"
+
+
+        >
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+
+
+            >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:text="Get your facts right"
+        android:textColor="#ffffff"
+        android:fontFamily="serif"
+        android:textStyle="bold"
+        android:layout_centerInParent="true"
+
+        />
+        </RelativeLayout>
+    </com.google.android.material.card.MaterialCardView>
+
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="20dp"
+    android:layout_below="@+id/homepage_title"
+    android:scrollbarStyle="outsideOverlay"
+
+
+    >
+
+
+
+<RelativeLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="20dp"
+
+
+
+    >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/vid_layout_1"
+        android:layout_marginTop="0dp"
+        android:layout_marginBottom="10dp"
+
+
+        >
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/vid_card_1"
+
+
+
+
+        >
+
+
+
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:id="@+id/video1"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:videoId="YjmQVMLhNT4"
+            app:autoPlay="false"
+            app:showYouTubeButton="true"
+            app:showFullScreenButton="false"
+            app:showVideoCurrentTime="true"
+            app:showSeekBar="true"
+            app:showVideoDuration="true"
+            app:enableLiveVideoUi="false"
+            app:enableAutomaticInitialization="true"
+            app:useWebUi="true"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+
+
+            />
+
+
+
+
+    </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:id="@+id/vid1_text1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Some simple workouts/exercises for home | Roberta's Gym"
+
+            android:layout_below="@+id/vid_card_1"
+            android:textStyle="normal"
+            android:textSize="20sp"
+            android:textColor="#008000"
+            android:fontFamily="sans-serif-medium"
+
+
+
+
+
+
+            />
+
+
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/vid_layout_2"
+        android:layout_below="@+id/vid_layout_1"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+
+
+
+        >
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/vid_card_2"
+
+
+
+
+
+        >
+
+
+
+
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+             android:id="@+id/video2"
+             android:layout_marginTop="10dp"
+
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             app:videoId="DQniWOTizpA"
+             app:autoPlay="false"
+             app:showYouTubeButton="true"
+             app:showFullScreenButton="false"
+             app:showVideoCurrentTime="true"
+             app:showSeekBar="true"
+             app:showVideoDuration="true"
+             app:enableLiveVideoUi="false"
+             app:enableAutomaticInitialization="true"
+             app:useWebUi="false"
+            android:layout_marginBottom="10dp"
+
+
+
+
+             />
+
+    </androidx.cardview.widget.CardView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/vid2_text1"
+            android:text="Healthy Tips to Improve Your Digestive System | Apollo Hospitals"
+
+            android:layout_below="@+id/vid_card_2"
+            android:textStyle="normal"
+            android:textSize="20sp"
+            android:textColor="#800000"
+            android:fontFamily="sans-serif-medium"
+
+
+
+
+
+
+            />
+
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/vid_layout_3"
+        android:layout_below="@+id/vid_layout_2"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+
+
+
+        >
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/vid_card_3"
+
+
+
+
+        >
+
+
+
+
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:id="@+id/video3"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:videoId="VEQaH4LruUo"
+            app:autoPlay="false"
+            app:showYouTubeButton="true"
+            app:showFullScreenButton="false"
+            app:showVideoCurrentTime="true"
+            app:showSeekBar="true"
+            app:showVideoDuration="true"
+            app:enableLiveVideoUi="false"
+            app:enableAutomaticInitialization="true"
+            app:useWebUi="false"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+
+
+
+            />
+
+    </androidx.cardview.widget.CardView>
+        <TextView
+            android:id="@+id/vid3_text1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="What is a calorie? |  "
+            android:layout_below="@+id/vid_card_3"
+            android:textStyle="normal"
+            android:textSize="20sp"
+            android:textColor="#008080"
+            android:fontFamily="sans-serif-medium"
+
+
+
+
+
+
+            />
+        <TextView
+            android:id="@+id/vid3_text2"
+            android:layout_toRightOf="@+id/vid3_text1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TED"
+
+            android:layout_below="@+id/vid_card_3"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="#FF0000"
+            android:fontFamily="sans-serif-medium"
+
+
+
+
+
+
+            />
+        <TextView
+            android:id="@+id/vid3_text3"
+            android:layout_toRightOf="@+id/vid3_text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ed"
+
+            android:layout_below="@+id/vid_card_3"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:fontFamily="sans-serif-light"
+
+
+
+
+
+
+            />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/vid_layout_4"
+        android:layout_below="@+id/vid_layout_3"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="20dp"
+
+
+
+        >
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/vid_card_4"
+
+
+
+
+        >
+
+
+
+
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:id="@+id/video4"
+
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:videoId="QhUrc4BnPgg"
+            app:autoPlay="false"
+            app:showYouTubeButton="true"
+            app:showFullScreenButton="false"
+            app:showVideoCurrentTime="true"
+            app:showSeekBar="true"
+            app:showVideoDuration="true"
+            app:enableLiveVideoUi="false"
+            app:enableAutomaticInitialization="true"
+            app:useWebUi="false"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+
+
+
+            />
+
+    </androidx.cardview.widget.CardView>
+        <TextView
+            android:id="@+id/vid4_text1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="What is fat? |  "
+            android:layout_below="@+id/vid_card_4"
+            android:textStyle="normal"
+            android:textSize="20sp"
+            android:textColor="#008080"
+            android:fontFamily="sans-serif-medium"
+
+
+
+
+
+
+            />
+        <TextView
+            android:id="@+id/vid4_text2"
+            android:layout_toRightOf="@+id/vid4_text1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TED"
+
+            android:layout_below="@+id/vid_card_4"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="#FF0000"
+            android:fontFamily="sans-serif-medium"
+
+
+
+
+
+
+            />
+        <TextView
+            android:id="@+id/vid4_text3"
+            android:layout_toRightOf="@+id/vid4_text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ed"
+
+            android:layout_below="@+id/vid_card_4"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:fontFamily="sans-serif-light"
+
+
+
+
+
+
+            />
+    </RelativeLayout>
+
+
+</RelativeLayout>
+
+</ScrollView>
+
+
+
+
+
+
+
+    <!-- <com.google.android.youtube.player.YouTubePlayerView        android:layout_marginTop="20dp"
+         android:layout_below="@+id/video1"
+         android:id="@+id/video2"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         app:videoId="YjmQVMLhNT4"
+         app:showYouTubeButton="true"
+         app:showFullScreenButton="false"
+         app:showVideoCurrentTime="true"
+         app:showSeekBar="true"
+         app:showVideoDuration="true"
+
+         />  -->
+       <!-- <ImageButton
+            android:id="@+id/play_btn_video1"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/play_btn_i"
+            android:layout_centerInParent="true"
+
+
+
+
+
+
+
+            /> -->
+
+
+
+
+
+</RelativeLayout>

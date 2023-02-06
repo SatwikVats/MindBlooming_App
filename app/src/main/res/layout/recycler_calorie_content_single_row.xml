@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+    android:weightSum="20"
+    android:orientation="horizontal"
+    android:layout_marginTop="20dp"
+    android:layout_marginBottom="20dp"
+    android:background="#FF00FF"
+    >
+
+
+
+    <ImageView
+        android:id="@+id/recycler_image"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="10dp"
+        android:layout_weight="9"
+        android:src="@drawable/food_default"
+        android:scaleType="centerCrop"
+        android:layout_marginLeft="5dp"
+        />
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="180dp"
+        android:layout_weight="11"
+
+
+    >
+
+    <TextView
+        android:id="@+id/txtRecyclerRowItem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:padding="10dp"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:text="ListItem"
+        android:layout_centerHorizontal="true"
+        android:textColor="#ffffff"
+        />
+
+
+        <RelativeLayout
+            android:id="@+id/quantity_calorie"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txtRecyclerRowItem"
+
+
+
+
+
+            >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <TextView
+            android:id="@+id/quantity"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:padding="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="10dp"
+            android:textSize="15sp"
+
+            android:text="Quantity"
+            android:textStyle="bold"
+            android:textColor="#FFFF00"
+
+
+
+
+            />
+
+
+     <TextView
+         android:id="@+id/calories"
+         android:layout_height="wrap_content"
+         android:layout_width="wrap_content"
+         android:padding="5dp"
+         android:layout_marginTop="5dp"
+         android:layout_marginLeft="15dp"
+         android:layout_marginRight="10dp"
+         android:textSize="15sp"
+         android:layout_below="@+id/quantity"
+         android:text="Calories"
+         android:textStyle="bold"
+         android:textColor="#FFFF00"
+
+
+
+        />
+
+
+            <TextView
+                android:id="@+id/fats"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_below="@+id/calories"
+                android:padding="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="10dp"
+                android:textSize="15sp"
+
+                android:text="Fats"
+                android:textStyle="bold"
+                android:textColor="#FFFF00"
+
+                />
+
+
+
+            <TextView
+                android:id="@+id/source"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/fats"
+                android:textColor="#ffffff"
+                android:text="Source"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="70dp"
+
+
+                android:textStyle="italic"
+                android:textSize="10sp"
+
+
+
+
+
+                />
+
+
+
+
+
+
+</RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </RelativeLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".fragment.AboutAppFragment"
+    android:padding="20dp"
+    >
+
+
+    <androidx.constraintlayout.widget.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.10"
+        android:id="@+id/top_guidel"
+
+        />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.90"
+        android:id="@+id/bottom_guidel"
+
+        />
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toTopOf="@+id/bottom_guidel"
+        app:layout_constraintTop_toBottomOf="@+id/top_guidel"
+        android:scrollbarStyle="outsideOverlay"
+
+        >
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_abtapp"
+        android:padding="10dp"
+
+
+        >
+
+   <!-- <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardBackgroundColor="#FFA500"
+        app:cardCornerRadius="20dp"
+        android:padding="20dp"
+        android:layout_centerInParent="true"
+
+
+
+
+    >--><ImageView
+        android:layout_width="150dp"
+        android:layout_centerHorizontal="true"
+        android:layout_height="150dp"
+        android:src="@drawable/final_logo_white"
+        android:id="@+id/abt_app_page_logo"
+        android:layout_marginBottom="30dp"
+        android:layout_marginTop="30dp"
+
+        />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="About App"
+                android:textSize="40sp"
+                android:layout_below="@+id/abt_app_page_logo"
+                android:layout_centerHorizontal="true"
+                android:id="@+id/about_app_title"
+                android:layout_marginBottom="40dp"
+                android:textColor="#ffffff"
+                android:textStyle="bold"
+
+
+                />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/about_app_text"
+        android:layout_below="@+id/about_app_title"
+        android:text="This is an app designed for all the fitness freaks out there. From to-do-workout list to BMI(Body Mass Index) calculator, it contains all the relevant features for setting up a daily exercise routine. Additionally, it is has some informative content, pertaining to various fast-food items we often consume, along with some videos giving some quick insights to adopting a healthy lifestyle. This app inculcates features which could help fulfill your fitness goals within a short period of time. You can keep a track of your health by updating biometrics and thereby analysing your Body Mass Index. Hope you have a great time with Mindblooming."
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:fontFamily="serif"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"
+        android:textColor="#ffffff"
+
+
+
+        />
+
+
+
+
+    <!--</com.google.android.material.card.MaterialCardView>-->
+    </RelativeLayout>
+
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

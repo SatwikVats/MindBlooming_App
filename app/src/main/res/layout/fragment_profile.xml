@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".fragment.ProfileFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <androidx.constraintlayout.widget.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.10"
+        android:id="@+id/h_guideline_top_most"
+
+
+        />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.80"
+        android:id="@+id/h_guideline_bottom_most"
+
+
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/h_guideline_top_most"
+        app:layout_constraintBottom_toTopOf="@+id/h_guideline_bottom_most"
+
+
+
+        >
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+
+
+
+        >
+
+
+        
+        <ImageView
+            android:layout_width="170dp"
+            android:layout_height="165dp"
+            android:src="@drawable/ic_profile"
+            android:id="@+id/profiepage_logo"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="0dp"
+
+
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:text="Hey User"
+            android:layout_below="@+id/profiepage_logo"
+            android:id="@+id/heyy_user"
+            android:layout_centerHorizontal="true"
+            android:padding="2dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="0dp"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textStyle="italic"
+            android:text="Biometrics last updated: "
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="2dp"
+            android:id="@+id/last_updated"
+            android:layout_below="@+id/heyy_user"
+
+
+
+
+            />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textStyle="italic"
+            android:text="  "
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="20dp"
+            android:id="@+id/last_updated_timedate"
+            android:layout_below="@+id/last_updated"
+
+
+
+
+            />
+
+
+        <Button
+        android:id="@+id/change_password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Change password"
+        android:layout_below="@+id/last_updated_timedate"
+        android:layout_centerHorizontal="true"
+            android:padding="5dp"
+            android:textStyle="bold"
+            android:layout_marginTop="35dp"
+            android:background="#8A0AE5"
+            android:textColor="#ffffff"
+            android:drawableStart="@drawable/password_default_white"
+            android:drawablePadding="4dp"
+
+
+
+
+
+            />
+
+        <Button
+            android:id="@+id/btn_del_acc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/change_password"
+            android:text="Delete account"
+            android:layout_centerHorizontal="true"
+            android:padding="5dp"
+            android:textStyle="bold"
+            android:layout_marginTop="15dp"
+            android:background="#8A0AE5"
+            android:textColor="#ffffff"
+            android:drawableStart="@drawable/delete_icon"
+            android:drawablePadding="4dp"
+
+
+
+
+            />
+
+
+
+    <Button
+        android:id="@+id/btn_logout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn_del_acc"
+        android:text="Logout"
+        android:layout_centerHorizontal="true"
+        android:padding="5dp"
+        android:textStyle="bold"
+        android:layout_marginTop="15dp"
+        android:background="#8A0AE5"
+        android:textColor="#ffffff"
+        android:drawableStart="@drawable/logout_default"
+        android:drawablePadding="6dp"
+
+
+
+
+        />
+
+
+
+
+
+
+    </RelativeLayout>
+
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

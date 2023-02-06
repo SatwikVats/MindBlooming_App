@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context=".fragment.FitnessGoalsFragment"
+    android:padding="10dp"
+
+
+    >
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+
+
+
+
+
+<com.google.android.material.card.MaterialCardView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/exercise_card"
+    app:cardCornerRadius="6dp"
+    app:cardBackgroundColor="#FFDE03"
+    app:strokeColor="#4a2806"
+    app:strokeWidth="0dp"
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="5dp"
+
+
+
+
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp"
+
+        >
+
+
+    <EditText
+        android:id="@+id/exercise"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:maxLines="1"
+        android:textColor="#3e2723"
+        android:hint="Exercise/workout (Ex:Crunches/pushup)"
+        android:layout_centerInParent="true"
+        android:drawableStart="@drawable/exercise_default"
+
+
+        />
+
+    </RelativeLayout>
+
+
+</com.google.android.material.card.MaterialCardView>
+
+
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/repetitions_card"
+            android:layout_below="@+id/exercise_card"
+            app:cardCornerRadius="6dp"
+            app:cardBackgroundColor="#FFDE03"
+            app:strokeColor="#4a2806"
+            app:strokeWidth="0dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+
+
+
+
+
+            >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingLeft="7dp"
+                android:paddingRight="7dp"
+
+                >
+
+
+        <EditText
+            android:id="@+id/repetitions"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:textColor="#3e2723"
+            android:hint="Repetitions/duration(Ex:10 times/15 mins)"
+            android:layout_centerInParent="true"
+            android:maxLines="1"
+            android:drawableStart="@drawable/repetitions_default"
+            android:drawablePadding="2dp"
+
+
+            />
+
+            </RelativeLayout>
+
+        </com.google.android.material.card.MaterialCardView>
+
+
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/frequency_card"
+            android:layout_below="@+id/repetitions_card"
+            app:cardCornerRadius="6dp"
+            app:cardBackgroundColor="#FFDE03"
+            app:strokeColor="#4a2806"
+            app:strokeWidth="0dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+
+
+
+
+
+            >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingLeft="7dp"
+                android:paddingRight="7dp"
+
+                >
+
+        <EditText
+            android:id="@+id/frequency"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:textColor="#3e2723"
+            android:hint="Frequency (Ex: per week/ per day)"
+            android:layout_centerInParent="true"
+            android:maxLines="1"
+            android:drawableStart="@drawable/frequency_default"
+            android:drawablePadding="3dp"
+
+            />
+
+            </RelativeLayout>
+
+        </com.google.android.material.card.MaterialCardView>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/frequency_card"
+        android:id="@+id/timepicker_for_exercise"
+        android:layout_centerHorizontal="true"
+        android:text="Time"
+        android:background="@drawable/bg_fitness_goals_timebutton"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="25dp"
+        android:textColor="#4a2806"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp"
+        android:textSize="20sp"
+        android:drawableStart="@drawable/timepicker_default"
+        android:drawablePadding="5dp"
+
+
+        android:textAllCaps="false"
+
+
+
+
+
+
+        />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/add_remove_clear"
+        android:layout_below="@+id/timepicker_for_exercise"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:orientation="horizontal"
+        >
+
+        <androidx.constraintlayout.widget.Guideline
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintGuide_percent="0.0"
+            android:orientation="vertical"
+            android:id="@+id/guide_left"
+
+            />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintGuide_percent="1.0"
+            android:orientation="vertical"
+            android:id="@+id/guide_right"
+
+            />
+
+        <Button
+            android:id="@+id/add_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintLeft_toRightOf="@+id/guide_left"
+            app:layout_constraintTop_toTopOf="@+id/add_remove_clear"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/bg_fitnessgoals_addbutton"
+            android:padding="5dp"
+            android:text="Add"
+            android:textSize="25sp"
+            android:textAllCaps="false"
+            android:textColor="#ffffff"
+            android:layout_marginBottom="30dp"
+
+
+            />
+
+
+
+
+       <!-- <Button
+            android:id="@+id/remove_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="#FF0000"
+            android:padding="20dp"
+            android:text="Remove"
+            android:textColor="#ffffff"
+
+            />-->
+
+
+        <Button
+            android:id="@+id/clear_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintRight_toLeftOf="@+id/guide_right"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            app:layout_constraintTop_toTopOf="@+id/add_remove_clear"
+            android:background="@drawable/bg_fitnessgoals_removebutton"
+            android:padding="5dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:textSize="25sp"
+            android:text="Remove All"
+            android:textAllCaps="false"
+            android:textColor="#ffffff"
+            android:layout_marginBottom="20dp"
+
+
+            />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/add_remove_clear"
+
+        android:padding="5dp"
+        android:layout_marginTop="10dp"
+
+        >
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+
+            >
+
+
+
+
+
+
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+
+        android:id="@+id/goalsrecycler"
+
+/>
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+
+</RelativeLayout>

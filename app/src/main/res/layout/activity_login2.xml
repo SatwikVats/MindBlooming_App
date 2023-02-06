@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.LoginActivity2"
+    android:background="#191970"
+    android:padding="20dp">
+
+  <androidx.constraintlayout.widget.Guideline
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:orientation="horizontal"
+      app:layout_constraintGuide_percent="0.1"
+      android:id="@+id/top_guide"
+
+
+    />
+
+  <androidx.constraintlayout.widget.Guideline
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:orientation="horizontal"
+      app:layout_constraintGuide_percent="0.9"
+      android:id="@+id/bottom_guide"
+
+
+      />
+
+  <RelativeLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_centerHorizontal="true"
+      app:layout_constraintTop_toBottomOf="@+id/top_guide"
+      app:layout_constraintBottom_toTopOf="@+id/bottom_guide"
+      android:id="@+id/loginpage_maincontent">
+
+   
+
+  <ImageView
+    android:id="@+id/loginpageicon"
+      android:layout_width="150dp"
+      android:layout_height="150dp"
+    android:src="@drawable/final_logo"
+      android:layout_centerHorizontal="true"
+      android:layout_marginBottom="5dp"
+      android:layout_marginTop="5dp"
+    />
+
+
+
+  <EditText
+      android:id="@+id/emailid"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+     android:drawableStart="@drawable/username_default"
+     android:layout_centerHorizontal="true"
+      android:padding="10dp"
+      android:layout_below="@+id/loginpageicon"
+     android:layout_marginTop="25dp"
+      android:drawablePadding="7dp"
+    android:hint="Enter email"
+      android:textSize="16sp"
+      android:maxLines="1"
+      android:textColor="#ffffff"
+      android:textColorHint="#7208be"
+
+
+
+
+
+    />
+
+
+  <EditText
+      android:id="@+id/password"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_below="@+id/emailid"
+      android:padding="10dp"
+      android:drawableStart="@drawable/password_default"
+      android:drawablePadding="7dp"
+      android:layout_centerHorizontal="true"
+      android:layout_marginTop="15dp"
+      android:hint="Enter password"
+      android:maxLines="1"
+      android:textSize="16sp"
+      android:inputType="textPassword"
+      android:textColor="#ffffff"
+      android:textColorHint="#7208be"
+
+
+
+
+
+      />
+
+  <Button
+      android:id="@+id/loginbutton"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+    android:text="Login"
+    android:layout_below="@+id/password"
+      android:textStyle="bold"
+      android:layout_marginTop="40dp"
+      android:padding="5dp"
+    android:layout_centerHorizontal="true"
+      android:background="@drawable/bg_buttons"
+      android:textColor="#ffffff"
+
+
+
+
+
+
+
+
+
+    />
+
+  <TextView
+      android:id="@+id/registerlink"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+    android:layout_below="@+id/loginbutton"
+    android:text="New here? Create an account"
+      android:textColor="#ffffff"
+    android:layout_centerHorizontal="true"
+      android:padding="5dp"
+      android:layout_marginTop="10dp"
+
+
+
+
+
+
+
+      />
+
+  <TextView
+      android:id="@+id/forgotpasswordlink"
+    android:layout_below="@+id/registerlink"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+    android:layout_marginTop="40dp"
+    android:textColor="#ffffff"
+    android:text="Forgot password?"
+    android:layout_centerHorizontal="true"
+      android:padding="5dp"
+      android:layout_marginBottom="10dp"
+
+
+
+
+
+
+    />
+
+
+
+  </RelativeLayout>
+
+  <RelativeLayout
+      android:id="@+id/loginpage_progresslayout"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+    android:background="#191970"
+      android:visibility="gone"
+
+
+    >
+
+  <ProgressBar
+      android:id="@+id/loginpage_progressbar"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_centerInParent="true"
+      android:indeterminate="true"/>
+
+  </RelativeLayout>
+
+  </androidx.constraintlayout.widget.ConstraintLayout>

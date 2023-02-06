@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "491855606644",
+    "firebase_url": "https://your-fitness-idol.firebaseio.com",
+    "project_id": "your-fitness-idol",
+    "storage_bucket": "your-fitness-idol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491855606644:android:9777de8352f2b47d5db221",
+        "android_client_info": {
+          "package_name": "com.example.yourfitnessidol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491855606644-fe7tj0vp23uc7rd4sh5m5ifkfj23jl02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8VHvKCuRhsQtmDiXZgob4nt6T_IIf7Sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491855606644-fe7tj0vp23uc7rd4sh5m5ifkfj23jl02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

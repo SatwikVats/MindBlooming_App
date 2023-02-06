@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:checkableBehavior="single"
+    >
+
+
+        <item
+        android:id="@+id/home_menu"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home1"
+        />
+
+
+
+
+
+    <item
+        android:id="@+id/goal_analyzer"
+        android:title="@string/analyzer"
+        android:icon="@drawable/ic_goals"
+        />
+
+
+
+
+
+    <item
+        android:id="@+id/calorie_content"
+        android:title="@string/calorie_content"
+        android:icon="@drawable/ic_calorie_content"
+        />
+
+
+
+
+
+
+    <item
+        android:id="@+id/biometrics"
+        android:title="@string/biometrics"
+        android:icon="@drawable/ic_biometrics"
+        />
+
+
+
+
+
+
+
+
+
+
+
+    <item
+        android:id="@+id/your_profile"
+        android:title="@string/Your_profile"
+        android:icon="@drawable/ic_profile"
+        />
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <item
+        android:id="@+id/about_app"
+        android:title="@string/about_app"
+android:icon="@drawable/ic_about_app"
+        />
+
+
+
+
+
+
+    </group>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</menu>
