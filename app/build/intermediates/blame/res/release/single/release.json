@@ -1,0 +1,598 @@
+[
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi_delete_icon.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-anydpi\\delete_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable_bg_abtapp.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable\\bg_abtapp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_repetitions_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xhdpi\\repetitions_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_play_btn_i.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xxhdpi\\play_btn_i.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi_ic_about_app.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-anydpi\\ic_about_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_password_default_white.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xhdpi\\password_default_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_profile.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xhdpi\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi_ic_calorie_content.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-anydpi\\ic_calorie_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_home1.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home1.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi_food_default.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-anydpi\\food_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_logout_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-hdpi\\logout_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_home1.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-mdpi\\ic_home1.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_exercise_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-mdpi\\exercise_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable_final_logo.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable\\final_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi_timepicker_default.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-anydpi\\timepicker_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable_ted_ed_youtubel.jpg.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable\\ted_ed_youtubel.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_username_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xhdpi\\username_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_password_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-mdpi\\password_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_home1.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xhdpi\\ic_home1.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_email_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-hdpi\\email_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable_measuringtape.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable\\measuringtape.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable_noodles.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable\\noodles.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_about_app.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xhdpi\\ic_about_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_goals.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-hdpi\\ic_goals.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_renter_password_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-mdpi\\renter_password_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_username_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-hdpi\\username_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_email_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-mdpi\\email_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_timepicker_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xhdpi\\timepicker_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_about_app.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-hdpi\\ic_about_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_calorie_content.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xhdpi\\ic_calorie_content.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_frequency_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xhdpi\\frequency_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable_burger.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable\\burger.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_delete_icon.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-hdpi\\delete_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_frequency_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-hdpi\\frequency_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_email_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xxhdpi\\email_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_timepicker_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-mdpi\\timepicker_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi_repetitions_default.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-anydpi\\repetitions_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_delete_icon.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-mdpi\\delete_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi_ic_biometrics.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-anydpi\\ic_biometrics.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable_maggi.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable\\maggi.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_password_default_white.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-mdpi\\password_default_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\layout_recycler_calorie_content_single_row.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\layout\\recycler_calorie_content_single_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_password_default_white.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xxhdpi\\password_default_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable_final_logo_white.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable\\final_logo_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_delete_icon.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xhdpi\\delete_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_logout_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xxhdpi\\logout_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_goals.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xhdpi\\ic_goals.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_delete_icon.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xxhdpi\\delete_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi_ic_home1.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-anydpi\\ic_home1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable_roundedrectanglebox.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable\\roundedrectanglebox.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\layout_drawer_layout.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\layout\\drawer_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable_dairymilk.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable\\dairymilk.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_change_password.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi_logout_default.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-anydpi\\logout_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable_bmianalysislogodef.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable\\bmianalysislogodef.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_biometrics.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-hdpi\\ic_biometrics.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_username_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-mdpi\\username_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_play_btn_i.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xhdpi\\play_btn_i.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_repetitions_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-mdpi\\repetitions_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_about_app.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-mdpi\\ic_about_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_calorie_content.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-hdpi\\ic_calorie_content.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_timepicker_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-hdpi\\timepicker_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_home1.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-hdpi\\ic_home1.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi_frequency_default.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-anydpi\\frequency_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_repetitions_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-hdpi\\repetitions_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_profile.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xxhdpi\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_food_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-mdpi\\food_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi_ic_goals.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-anydpi\\ic_goals.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable_chocopie.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable\\chocopie.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_frequency_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xxhdpi\\frequency_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_password_default_white.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-hdpi\\password_default_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_username_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xxhdpi\\username_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_calorie_content.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xxhdpi\\ic_calorie_content.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_repetitions_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xxhdpi\\repetitions_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_email_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xhdpi\\email_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_goals.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xxhdpi\\ic_goals.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable_ice_cream.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable\\ice_cream.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi_exercise_default.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-anydpi\\exercise_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable_weighingscalef.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable\\weighingscalef.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_play_btn_i.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-hdpi\\play_btn_i.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_about_app.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\layout\\fragment_about_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi_ic_home.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-anydpi\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi_password_default_white.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-anydpi\\password_default_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi_password_default.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-anydpi\\password_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi_play_btn_i.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-anydpi\\play_btn_i.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_timepicker_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xxhdpi\\timepicker_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_renter_password_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xxhdpi\\renter_password_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_password_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xhdpi\\password_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_logout_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xhdpi\\logout_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_food_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-hdpi\\food_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_about_app.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xxhdpi\\ic_about_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi_email_default.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-anydpi\\email_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable_oreo.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable\\oreo.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_renter_password_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xhdpi\\renter_password_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_play_btn_i.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-mdpi\\play_btn_i.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_profile.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-hdpi\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_exercise_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xhdpi\\exercise_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable_milkshake.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable\\milkshake.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_biometrics.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-mdpi\\ic_biometrics.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_password_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xxhdpi\\password_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_exercise_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xxhdpi\\exercise_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_calorie_content.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-mdpi\\ic_calorie_content.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable_frenchfries.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable\\frenchfries.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_food_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xxhdpi\\food_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi_ic_profile.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-anydpi\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_fitness_goals.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\layout\\fragment_fitness_goals.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable_bmif.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable\\bmif.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_password_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-hdpi\\password_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable_coke.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable\\coke.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_exercise_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-hdpi\\exercise_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\layout_goal_list_single_row.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\layout\\goal_list_single_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable_pizza.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable\\pizza.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_biometrics.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xhdpi\\ic_biometrics.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi_username_default.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-anydpi\\username_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_profile.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-mdpi\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi_renter_password_default.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-anydpi\\renter_password_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_food_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xhdpi\\food_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_logout_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-mdpi\\logout_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_login2.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\layout\\activity_login2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_calorie_content.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\layout\\fragment_calorie_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_biometrics.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\layout\\fragment_biometrics.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_renter_password_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-hdpi\\renter_password_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\menu_menu_drawer.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\menu\\menu_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_frequency_default.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-mdpi\\frequency_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_biometrics.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-xxhdpi\\ic_biometrics.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_goals.png.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\drawable-mdpi\\ic_goals.png"
+    },
+    {
+        "merged": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\build\\intermediates\\res\\merged\\release\\layout_forgotpassworddialogbox.xml.flat",
+        "source": "C:\\Users\\Satwik\\AndroidStudioProjects\\YourFitnessIdol\\app\\src\\main\\res\\layout\\forgotpassworddialogbox.xml"
+    }
+]
